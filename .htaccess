@@ -1,0 +1,3 @@
+<Files "database.sql">
+    Require all denied
+</Files>
